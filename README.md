@@ -20,13 +20,13 @@ This repository contains a simple yet effective shell script designed to test DN
 Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/<your-username>/dns-speed-test.git
+git clone https://github.com/inabakumori/dns_speed_test.git
 ```
 
 Navigate to the cloned directory:
 
 ```bash
-cd dns-speed-test
+cd dns_speed_test
 ```
 
 Make the script executable:
